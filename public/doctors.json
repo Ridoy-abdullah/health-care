@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "img": "https://image.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg",
+        "name": "Kuntal Roy",
+        "degree": "FCPS, Diploma (In Child Health), MBBS",
+        "speciality": "Pediatrics",
+        "assistantProfessor": "Anwer Khan Modern Medical College",
+        "schedule": "Friday-Monday",
+        "time": "4pm to 9pm",
+        "contact": "0186189898"
+    },
+    {
+        "id": 2,
+        "img": "https://image.freepik.com/free-photo/doctor-with-co-workers-analyzing-x-ray_1098-581.jpg",
+        "name": "Dr. Mohammad Refatul Islam",
+        "degree": "D-Card, MCPS, MBBS, BCS (Health)",
+        "speciality": "Cardiology",
+        "assistantProfessor": "Shaheed Tajuddin Ahmad Medical College, Gazipur, Bangladesh 1213",
+        "schedule": "Sunday-Monday",
+        "time": "4pm to 9pm",
+        "contact": "0186189898"
+    },
+    {
+        "id": 3,
+        "img": "https://image.freepik.com/free-photo/portrait-smiling-male-doctor_171337-1532.jpg",
+        "name": "Dr.Md.Shahinur Rahman",
+        "degree": "MBBS (D.U), CD (Post Graduation in Diabetology(Johns Hopkins), FACE",
+        "speciality": "Diabetology (Endocrinology)",
+        "assistantProfessor": "Pabna Diabetic Association Hospital,",
+        "schedule": "Friday-Monday",
+        "time": "4pm to 9pm",
+        "contact": "0186189898"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/kX9K245/drr2222222.jpg",
+        "name": "S M Habibur Rahman Habib",
+        "degree": "BMBS, BCS (Health), MCPS, FCPS",
+        "speciality": "Pediatrics",
+        "assistantProfessor": "Anwer Khan Modern Medical College",
+        "schedule": "Friday-Monday",
+        "time": "4pm to 9pm",
+        "contact": "0186189898"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/WBR4YSS/dr6.jpg",
+        "name": "DR. SAIFUL ISLAM",
+        "degree": "MBBS, MS",
+        "speciality": "Gynecology, Obstetrics",
+        "assistantProfessor": "BGC Trust Medical College",
+        "schedule": "Friday-Monday",
+        "time": "4pm to 9pm",
+        "contact": "0186189898"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/0XqBnvb/derrrrrrrr4.jpg",
+        "name": "Dr. Md. Shohel Rana",
+        "degree": "MBBS, MPH (USA)",
+        "speciality": "Pediatrics",
+        "assistantProfessor": "Community Based Medical College Bangladesh,",
+        "schedule": "Friday-Thursday ",
+        "time": "4pm to 9pm",
+        "contact": "0186189898"
+    }
+]

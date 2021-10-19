@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": " Emergency Department",
+        "description": "EDs have highly trained doctors and other health professionals on site to deal with emergencies.",
+        "img": "https://image.freepik.com/free-photo/british-ambulance-parked-parking-lot_53876-63438.jpg",
+        "contact": "0186189898"
+    },
+    {
+        "id": 2,
+        "name": "Cardiac Department",
+        "description": "With the help of State-of-the-hart-technology, equipment and monitoring devices, our cardiologists are providing excellent heart care to all the patients.",
+        "img": "https://img.freepik.com/free-photo/interior-hospital-design-concept-interior-resuscitation-chamber-modern-clinic-screen-with-tests-covid-19-coronavirus-identification-pandemic-closeup_116317-5346.jpg?size=626&ext=jpg",
+        "contact": "0186189898"
+    },
+    {
+        "id": 3,
+        "name": "Diabetes Department",
+        "description": "The most common specialists in the field of diabetes are endocrinologists. Endocrinologists specialize in hormonal issues and the glands that produce these hormones.",
+        "img": "https://image.freepik.com/free-photo/health-care-doctor-help-concept_53876-123679.jpg","contact": "0186189898"
+    },
+    
+    {
+        "id": 4,
+        "name": "Surgery Department",
+        "description": "Johns Hopkins Health Care & Surgery Center — Green Spring Station provides patients with multidisciplinary care, offering a breadth of surgical treatments, imaging, and medical and radiation oncology.",
+        "img": "https://image.freepik.com/free-photo/doctors-doing-surgical-procedure-patient_23-2148962500.jpg",
+        "contact": "0186189898"
+    },
+    {
+        "id": 5,
+        "name": "Nephrology Department",
+        "description": "Journal of Clinical Nephrology and Renal Care is an international, open access, peer reviewed journal that publishes wide variety of clinical information in all the interdisciplinary aspects of Nephrology.",
+        "img": "https://image.freepik.com/free-photo/medicine-bottles-pills_1160-370.jpg",
+        "contact": "0186189898"
+    },
+    {
+        "id":6 ,
+        "name": "Pharmacy Department",
+        "description": "This was an observational study in northern and southern Taiwan’s two largest medical centers, from 2012 to 2018. We calculated monthly PDW as number of prescriptions divided by number of pharmacist working days.",
+        "img": "https://image.freepik.com/free-photo/portrait-cheerful-handsome-pharmacist-leaning-counter-drugstore_109710-1738.jpg",
+        "contact": "0186189898"
+    }
+]
